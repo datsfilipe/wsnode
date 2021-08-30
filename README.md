@@ -1,4 +1,4 @@
-# WEB SOCKET
+# WEBSOCKET
 
 <p align="center">
   <img width="220" src="./assets/code.svg">
